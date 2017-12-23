@@ -1,3 +1,5 @@
+Test Commit by Dan, 12/23
+
 UPDATE FOR BITFINIX ISSUES: 
 API https://www.cryptonator.com/api and 
 Will be adding in https://github.com/ccxt/ccxt instead of custom wrapping all the api's
